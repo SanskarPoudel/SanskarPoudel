@@ -23,6 +23,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  freelance,
+  code,
 } from "../assets";
 
 export const navLinks = [
@@ -42,19 +44,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Web Development",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Server Administration",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Backend Development",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Graphics Designing",
     icon: creator,
   },
 ];
@@ -116,55 +118,41 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
+    title: "Graphics Designing",
+    company_name: "Freelancing",
+    icon: creator,
+    iconBg: "#E6DEDD",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Started with searching for the first job in freelancing platforms and i found graphics is easy to start.",
+      "Bidding in many graphics designing projects and finally entered in the freelancing world.",
+      "I have done approximately 10-15 graphics designing projects for different clients.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Server Administration / Wordpress Development",
+    company_name: "Freelancing",
+    icon: mobile,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "After graphics designing, i got exposure to coding through my college syllabus and personal interest.",
+      "Then i started searching for the basic Web Development and coding related work.",
+      "While searching, I found some server Adminstration work on the way and got to know everything about Hosting and maintaining website in cPanel.",
+      "I have also found website development work using Wordpress and grabbed the opportunity and got experience with Wordpress Development.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "Full Stack Development ( MERN )",
+    company_name: "Freelancing",
+    icon: code,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Feb 2022 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I mastered the javascript and learned REACT js,NODE and mongoDb.",
+      "And Started searching for the full stack development work and got some small projects where i got to know about the Architecture of E-Commerce websites.",
+      "I also made one full stack E-commerce website for learning purpose while doing other small works of clients.",
+      "And yes that was my journey and i am now searching for opportunity to work in established company as a Full Stack Developer in order to learn and grow more.",
     ],
   },
 ];
