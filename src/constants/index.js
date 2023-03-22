@@ -24,7 +24,11 @@ import {
   tripguide,
   threejs,
   freelance,
+  photoshop,
   code,
+  illustrator,
+  cPanel,
+  cpp,
 } from "../assets";
 
 export const navLinks = [
@@ -75,9 +79,10 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "C++",
+    icon: cpp,
   },
+
   {
     name: "React JS",
     icon: reactjs,
@@ -99,20 +104,24 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "git",
     icon: git,
+  },
+  {
+    name: "cPanel",
+    icon: cPanel,
   },
   {
     name: "figma",
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "PhotoShop",
+    icon: photoshop,
+  },
+  {
+    name: "Illustrator",
+    icon: illustrator,
   },
 ];
 

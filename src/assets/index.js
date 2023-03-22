@@ -31,6 +31,10 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import freelance from "./company/freelance.png";
 import code from "./code.png";
+import photoshop from "./photoshop.png";
+import illustrator from "./illustrator.png";
+import cPanel from "./cPanel.png";
+import cpp from "./cpp.png";
 
 export {
   logo,
@@ -63,4 +67,8 @@ export {
   tripguide,
   freelance,
   code,
+  photoshop,
+  illustrator,
+  cPanel,
+  cpp,
 };
