@@ -29,6 +29,11 @@ import {
   illustrator,
   cPanel,
   cpp,
+  t1,
+  t2,
+  t3,
+  t4,
+  t5,
 } from "../assets";
 
 export const navLinks = [
@@ -133,7 +138,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "March 2020 - April 2021",
     points: [
-      "Started with searching for the first job in freelancing platforms and i found graphics is easy to start.",
+      "Started with searching for the first job in freelancing platforms and i found it easy to start as graphics designer.",
       "Bidding in many graphics designing projects and finally entered in the freelancing world.",
       "I have done approximately 10-15 graphics designing projects for different clients.",
     ],
@@ -159,8 +164,8 @@ const experiences = [
     date: "Feb 2022 - Present",
     points: [
       "I mastered the javascript and learned REACT js,NODE and mongoDb.",
-      "And Started searching for the full stack development work and got some small projects where i got to know about the Architecture of E-Commerce websites.",
-      "I also made one full stack E-commerce website for learning purpose while doing other small works of clients.",
+      "And Started searching for the full stack development work and got some small projects where i got to know about the Architecture different web applications.",
+      "I also started making  full stack applications such as ecommerce,chat apps for learning purpose while doing other small works of clients.",
       "And yes that was my journey and i am now searching for opportunity to work in established company as a Full Stack Developer in order to learn and grow more.",
     ],
   },
@@ -168,57 +173,76 @@ const experiences = [
 
 const testimonials = [
   {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    testimonial: t1,
+    name: "Network M",
+    designation: "Outsourcing Head",
+    company: "Advance Solutions",
   },
   {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    testimonial: t2,
+    name: "Last M",
+    designation: "CEO",
+    company: "Wishop.co.za",
   },
   {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+    testimonial: t3,
+    name: "Lorenzo G",
     designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    company: "DomuxOffice",
+  },
+
+  {
+    testimonial: t5,
+    name: "Amal D",
+    designation: "CoFounder",
+    company: "Days Enterprise NZ",
+  },
+  {
+    testimonial: t4,
+    name: "Lorenzo G",
+    designation: "CTO",
+    company: "DomuxOffice",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "E-Commerce",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based E-commerce platform that allows users to login/register, search product, add to cart, and buy different items from shop, providing a convenient and efficient solution for online shopping. It also consist of admin side where admin can create product, can see the list of users and do vaious other admin activities.",
     tags: [
       {
-        name: "react",
+        name: "reactjs",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "redux_toolkit",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "nodejs",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "expressjs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongoDb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "bootstrap",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/SanskarPoudel/ECOMMERCE----MERN",
   },
   {
-    name: "Job IT",
+    name: "Chat App",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that enables users to chat with each other , let user to search other users and message them, and even make group chats to discuss about things and have fun with friends.",
     tags: [
       {
         name: "react",
@@ -229,33 +253,24 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "nodejs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "expressjs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "chakraUI",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/SanskarPoudel/ChatApp",
   },
 ];
 

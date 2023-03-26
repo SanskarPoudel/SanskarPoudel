@@ -27,7 +27,7 @@ const Navbar = () => {
 
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
             Sanskar &nbsp;
-            <span className="sm:block hidden">| MERN Developer</span>
+            <span className="sm:block hidden">| Software Developer</span>
           </p>
         </Link>
 

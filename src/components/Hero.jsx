@@ -20,8 +20,9 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} lg:mt-1 mt-2 text-white-100`}>
             {" "}
-            Software Engineering student with hands-on
-            <br className="sm:block hidden" /> experience on Web development.
+            A Passionate Software Engineering student with hands-on
+            <br className="sm:block hidden" /> experience on Web development and
+            Graphics designing.
           </p>
         </div>
       </div>
