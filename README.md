@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskarpoudel&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarpoudel" /> </p>
 
-- 🔭 I’m currently working as BackEnd Developer at **AdBreak Media**
+- 🔭 I’m currently working as **BackEnd Developer** at **AdBreak Media**
 
 - 🌱 I’m currently learning **Jenkins, aws**
 
