@@ -39,13 +39,14 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         I'm a skilled software developer with wealth of practical experience in
-        web application development and Graphics Designing. With a strong
-        foundation in both front-end and back-end development,i know
-        technologies like JavaScript, C++ and i am expert in frameworks like
-        React, Node.js, etc . I'm a quick learner and collaborate closely with
-        clients to create efficient, scalable, and user-friendly solutions that
-        solve real-world problems. Let's work together to bring your ideas to
-        life!
+        web application development , DevOps, Cloud Computing and Graphics
+        Designing. With a strong foundation in both front-end and back-end
+        development,i know technologies like JavaScript, C++, MongoDB, Redis,
+        Docker, AWS and i am expert in libraries and frameworks like React,
+        Next.js, Node.js, Express js, etc . I'm a quick learner and collaborate
+        closely with clients to create efficient, scalable, and user-friendly
+        solutions that solve real-world problems. Let's work together to bring
+        your ideas to life!
       </motion.p>
       <div className="mt-[2.5rem] flex flex-wrap gap-10">
         {services.map((service, index) => {
