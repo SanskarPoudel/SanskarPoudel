@@ -6,6 +6,7 @@ import {
   javascript,
   typescript,
   html,
+  adb,
   css,
   reactjs,
   redux,
@@ -124,10 +125,7 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  {
-    name: "cPanel",
-    icon: cPanel,
-  },
+
   {
     name: "HTML 5",
     icon: html,
@@ -135,18 +133,6 @@ const technologies = [
   {
     name: "CSS 3",
     icon: css,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "PhotoShop",
-    icon: photoshop,
-  },
-  {
-    name: "Illustrator",
-    icon: illustrator,
   },
 ];
 
@@ -238,6 +224,52 @@ const testimonials = [
 
 const projects = [
   {
+    name: "AdBreakMedia Network",
+    description:
+      "In my role as a software engineer at Adbreakmedia, I am playing a pivotal role in creating and shaping the Adbreakmedia Network . My responsibilities span various domains, including backend development, where I design and implement robust APIs and server-side components. Additionally, I manage DevOps and cloud infrastructure, overseeing the automation and deployment pipeline. On the frontend, I also contribute on  crafting user interfaces using technologies like Tailwind CSS, JavaScript, Next.js, and React. My role encompass ensuring the seamless integration of these components, enhancing security measures, optimizing server performance, and collaborating closely with cross-functional teams to fulfill project requirements.",
+
+    tags: [
+      {
+        name: "nodejs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "expressjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "reactjs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "socketio",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "docker",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "aws",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CI/CD",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: adb,
+    source_code_link: "https://adbreakmedia.com",
+  },
+  {
     name: "E-Commerce",
     description:
       "Web-based E-commerce platform that allows users to login/register, search product, add to cart, and buy different items from shop, providing a convenient and efficient solution for online shopping. It also consist of admin side where admin can create product, can see the list of users and do vaious other admin activities.",
@@ -290,6 +322,10 @@ const projects = [
       {
         name: "expressjs",
         color: "green-text-gradient",
+      },
+      {
+        name: "socketio",
+        color: "pink-text-gradient",
       },
       {
         name: "mongodb",

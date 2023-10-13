@@ -40,14 +40,20 @@ import t2 from "./t2.png";
 import t3 from "./t3.png";
 import t4 from "./t4.png";
 import t5 from "./t5.png";
+import redis from "./redis.png";
+import aws from "./aws.png";
+import adb from "./adb.png";
 
 export {
   logo,
   backend,
   creator,
+  adb,
   mobile,
   web,
   github,
+  redis,
+  aws,
   menu,
   close,
   css,
