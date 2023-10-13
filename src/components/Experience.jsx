@@ -67,10 +67,7 @@ const Experience = () => {
         <p className={styles.sectionSubText + "mt-0"}>
           What I have done so far
         </p>
-        <h2 className={styles.sectionHeadText}>
-          Work Experience.
-          <span className="font-thin text-xl"> ( Freelancing ) </span>
-        </h2>
+        <h2 className={styles.sectionHeadText}>Work Experience.</h2>
       </motion.div>
 
       <div className="mt-20 flex flex-col" style={{ marginBottom: -50 }}>
