@@ -12,6 +12,8 @@ import {
   tailwind,
   nodejs,
   mongodb,
+  redis,
+  aws,
   git,
   figma,
   docker,
@@ -57,7 +59,7 @@ const services = [
     icon: web,
   },
   {
-    title: "Server Administration",
+    title: "DevOps, Cloud Engineering",
     icon: mobile,
   },
   {
@@ -72,33 +74,12 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
     name: "JavaScript",
     icon: javascript,
   },
   {
-    name: "C++",
-    icon: cpp,
-  },
-
-  {
-    name: "React JS",
-    icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "TypeScript",
+    icon: typescript,
   },
   {
     name: "Node JS",
@@ -109,12 +90,51 @@ const technologies = [
     icon: mongodb,
   },
   {
+    name: "Docker",
+    icon: docker,
+  },
+  {
+    name: "Redis",
+    icon: redis,
+  },
+  {
+    name: "AWS",
+    icon: aws,
+  },
+  {
+    name: "C++",
+    icon: cpp,
+  },
+
+  {
+    name: "React JS",
+    icon: reactjs,
+  },
+
+  {
+    name: "Redux Toolkit",
+    icon: redux,
+  },
+  {
+    name: "Tailwind CSS",
+    icon: tailwind,
+  },
+
+  {
     name: "git",
     icon: git,
   },
   {
     name: "cPanel",
     icon: cPanel,
+  },
+  {
+    name: "HTML 5",
+    icon: html,
+  },
+  {
+    name: "CSS 3",
+    icon: css,
   },
   {
     name: "figma",
@@ -148,7 +168,7 @@ const experiences = [
     company_name: "Freelancing",
     icon: mobile,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2021 - Jan 2022",
     points: [
       "After graphics designing, i got exposure to coding through my college syllabus and personal interest.",
       "Then i started searching for the basic Web Development and coding related work.",
@@ -161,12 +181,23 @@ const experiences = [
     company_name: "Freelancing",
     icon: code,
     iconBg: "#E6DEDD",
-    date: "Feb 2022 - Present",
+    date: "Jan 2022 - March 2022",
     points: [
       "I mastered the javascript and learned REACT js,NODE and mongoDb.",
       "And Started searching for the full stack development work and got some small projects where i got to know about the Architecture different web applications.",
       "I also started making  full stack applications such as ecommerce,chat apps for learning purpose while doing other small works of clients.",
-      "And yes that was my journey and i am now searching for opportunity to work in established company as a Full Stack Developer in order to learn and grow more.",
+    ],
+  },
+  {
+    title: "Software Engineer",
+    company_name: "AdBreakMedia",
+    icon: code,
+    iconBg: "#E6DEDD",
+    date: "March 2022 - Present",
+    points: [
+      "I finally joined AdBreakMedia as a full-time Software Engineer with my main role as a Backend Engineer.",
+      "While working at AdBreakMedia as a Backend Engineer, I have also gained expertise in other areas such as DevOps, Server Management, and Cloud Computing.",
+      "Currently, I am thriving at AdBreakMedia as a Software Engineer. I have been making valuable contributions by crafting robust and scalable backend solutions, managing DevOps and Servers, and also making some contributions towards frontend development.",
     ],
   },
 ];
