@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **BackEnd Developer** at **AdBreak Media**
 
-- 🌱 I’m currently learning **Jenkins, aws**
+- 🌱 I’m currently learning **System Design**
 
 - 👨‍💻 You can visit my portfolio [https://sanskar-paudel-portfolio.netlify.app/](https://sanskar-paudel-portfolio.netlify.app/)
 
