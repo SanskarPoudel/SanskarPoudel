@@ -170,8 +170,8 @@ const experiences = [
     date: "Jan 2022 - March 2022",
     points: [
       "I mastered the javascript and learned REACT js,NODE and mongoDb.",
-      "And Started searching for the full stack development work and got some small projects where i got to know about the Architecture different web applications.",
-      "I also started making  full stack applications such as ecommerce,chat apps for learning purpose while doing other small works of clients.",
+      "And Started searching for the full stack development work and got some small projects where i got to know about the Architecture of different web applications.",
+      "I also started making  full stack applications such as ecommerce, chat apps for learning purpose while doing other small works of clients.",
     ],
   },
   {
