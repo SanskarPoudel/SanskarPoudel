@@ -37,6 +37,8 @@ import {
   t3,
   t4,
   t5,
+  verifylink,
+  makemoney,
 } from "../assets";
 
 export const navLinks = [
@@ -226,118 +228,68 @@ const projects = [
   {
     name: "AdBreakMedia Network",
     description:
-      "In my role as a software engineer at Adbreakmedia, I am playing a pivotal role in creating and shaping the Adbreakmedia Network . My responsibilities span various domains, including backend development, where I design and implement robust APIs and server-side components. Additionally, I manage DevOps and cloud infrastructure, overseeing the automation and deployment pipeline. On the frontend, I also contribute on  crafting user interfaces using technologies like Tailwind CSS, JavaScript, Next.js, and React. My role encompass ensuring the seamless integration of these components, enhancing security measures, optimizing server performance, and collaborating closely with cross-functional teams to fulfill project requirements.",
-
+      "Contributed to the development of the Adbreakmedia Network, focusing mainly on backend APIs / Business logic, Cloud Services, and also assisting with frontend implementation.",
     tags: [
-      {
-        name: "nodejs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "expressjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "reactjs",
-        color: "green-text-gradient",
-      },
-      {
-        name: "socketio",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "docker",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "aws",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "CI/CD",
-        color: "blue-text-gradient",
-      },
+      { name: "nodejs", color: "blue-text-gradient" },
+      { name: "mongodb", color: "blue-text-gradient" },
+      { name: "nextjs", color: "blue-text-gradient" },
+      { name: "expressjs", color: "blue-text-gradient" },
+      { name: "reactjs", color: "green-text-gradient" },
+      { name: "socketio", color: "pink-text-gradient" },
+      { name: "docker", color: "blue-text-gradient" },
+      { name: "aws", color: "blue-text-gradient" },
+      { name: "CI/CD", color: "blue-text-gradient" },
     ],
     image: adb,
     source_code_link: "https://adbreakmedia.com",
   },
   {
+    name: "VerifyLink.io",
+    description:
+      "Developed core backend and server-side features for a subscription-based platform focused on verifying various campaign tracking links.",
+    tags: [
+      { name: "nodejs", color: "blue-text-gradient" },
+      { name: "expressjs", color: "blue-text-gradient" },
+      { name: "mongodb", color: "blue-text-gradient" },
+      { name: "stripe", color: "blue-text-gradient" },
+      { name: "paypal", color: "blue-text-gradient" },
+      { name: "coinbase", color: "blue-text-gradient" },
+      { name: "docker", color: "blue-text-gradient" },
+      { name: "aws", color: "blue-text-gradient" },
+    ],
+    image: verifylink,
+    source_code_link: "https://verifylink.io",
+  },
+  {
+    name: "Makemoney",
+    description:
+      "Implemented backend services and server-side functionality for a Get Paid To platform with live chat and interactive earning opportunities.",
+    tags: [
+      { name: "nodejs", color: "blue-text-gradient" },
+      { name: "expressjs", color: "blue-text-gradient" },
+      { name: "mongodb", color: "blue-text-gradient" },
+      { name: "nextjs", color: "blue-text-gradient" },
+      { name: "socketio", color: "pink-text-gradient" },
+      { name: "redux", color: "blue-text-gradient" },
+      { name: "docker", color: "blue-text-gradient" },
+    ],
+    image: makemoney,
+    source_code_link: "https://makemoney.is",
+  },
+  {
     name: "E-Commerce",
     description:
-      "Web-based E-commerce platform that allows users to login/register, search product, add to cart, and buy different items from shop, providing a convenient and efficient solution for online shopping. It also consist of admin side where admin can create product, can see the list of users and do vaious other admin activities.",
+      "Personal learning project: Developed a web-based shopping platform with user login, product search, cart, and admin management using React, Node.js, and MongoDB.",
     tags: [
-      {
-        name: "reactjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "redux_toolkit",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "nodejs",
-        color: "green-text-gradient",
-      },
-      {
-        name: "expressjs",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongoDb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "bootstrap",
-        color: "pink-text-gradient",
-      },
+      { name: "reactjs", color: "blue-text-gradient" },
+      { name: "redux_toolkit", color: "blue-text-gradient" },
+      { name: "nodejs", color: "green-text-gradient" },
+      { name: "expressjs", color: "green-text-gradient" },
+      { name: "mongoDb", color: "green-text-gradient" },
+      { name: "bootstrap", color: "pink-text-gradient" },
     ],
     image: carrent,
     source_code_link: "https://github.com/SanskarPoudel/ECOMMERCE----MERN",
-  },
-  {
-    name: "Chat App",
-    description:
-      "Web application that enables users to chat with each other , let user to search other users and message them, and even make group chats to discuss about things and have fun with friends.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "nodejs",
-        color: "green-text-gradient",
-      },
-      {
-        name: "expressjs",
-        color: "green-text-gradient",
-      },
-      {
-        name: "socketio",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "chakraUI",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/SanskarPoudel/ChatApp",
   },
 ];
 

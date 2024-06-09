@@ -43,6 +43,8 @@ import t5 from "./t5.png";
 import redis from "./redis.png";
 import aws from "./aws.png";
 import adb from "./adb.png";
+import verifylink from "./verifylink.jpeg";
+import makemoney from "./makemoney.jpeg";
 
 export {
   logo,
@@ -82,6 +84,8 @@ export {
   illustrator,
   cPanel,
   cpp,
+  verifylink,
+  makemoney,
   t1,
   t2,
   t3,
