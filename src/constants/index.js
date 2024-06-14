@@ -37,6 +37,7 @@ import {
   t3,
   t4,
   t5,
+  t6,
   verifylink,
   makemoney,
 } from "../assets";
@@ -191,6 +192,13 @@ const experiences = [
 ];
 
 const testimonials = [
+  {
+    testimonial: t6,
+    name: "Ztpl C",
+    designation: "Project Manager",
+    company: "zeisys",
+  },
+
   {
     testimonial: t1,
     name: "Network M",
