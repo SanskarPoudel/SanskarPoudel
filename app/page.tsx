@@ -131,13 +131,13 @@ export default function Home() {
               </li>
               <li>
                 <span className="font-medium">Cloud & DevOps:</span> Utilize AWS
-                services for different purposes like hosting servers, asynchronous job processing, sending emails and
+                services for different purposes like hosting applications, asynchronous job processing, sending emails and
                 media storage
               </li>
               <li>
                 <span className="font-medium">Frontend Contributions:</span>{" "}
                 Collaborate with the frontend team to build and improve
-                dashboards using React.js
+                dashboards using Next.js
               </li>
               <li>
                 <span className="font-medium">
