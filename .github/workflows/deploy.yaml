@@ -52,4 +52,4 @@ jobs:
           password: ${{ secrets.SERVER_PASSWORD }}
           port: ${{ secrets.SERVER_PORT }}
           script: |
-            cd ./${{ env.DOCKER_COMPOSE_DIR }}/ && docker-compose down cv &&   docker-compose pull cv && docker-compose up -d cv
+            cd ./${{ secrets.DOCKER_COMPOSE_DIR }}/ && docker-compose down cv &&   docker-compose pull cv && docker-compose up -d cv
