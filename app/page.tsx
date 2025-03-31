@@ -389,8 +389,8 @@ export default function Home() {
             <li>
               <span className="font-medium">Continuous Learning:</span> Actively
               engaged in staying up-to-date with emerging technologies, best
-              practices, and industry trends through online courses, technical
-              blogs, and open-source contributions
+              practices, and industry trends through online courses and
+              technical blogs
             </li>
           </ul>
         </section>
