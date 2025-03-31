@@ -131,7 +131,7 @@ export default function Home() {
               </li>
               <li>
                 <span className="font-medium">Cloud & DevOps:</span> Utilize AWS
-                services (SQS, Lambda, S3) for asynchronous job processing and
+                services for different purposes like hosting servers, asynchronous job processing, sending emails and
                 media storage
               </li>
               <li>
@@ -176,7 +176,7 @@ export default function Home() {
                     delivery and tracking
                   </li>
                   <li>
-                    Designed and built interactive dashboards for advertisers
+                    Collaborated with Frontend Designers to built interactive dashboards for advertisers
                     and publishers
                   </li>
                   <li>
