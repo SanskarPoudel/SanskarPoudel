@@ -86,7 +86,7 @@ export default function Home() {
             </li>
             <li>
               <span className="font-semibold">DevOps & Infrastructure:</span>{" "}
-              Docker, Kubernetes, AWS (SQS, Lambda, S3), Linux Server
+              Docker, Kubernetes, AWS (EC2, SQS, Lambda, S3, etc.), Linux Server
               Management
             </li>
             <li>
