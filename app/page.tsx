@@ -120,7 +120,7 @@ export default function Home() {
                 Full Stack Software Engineer
               </h3>
               <p className="text-gray-600">
-                Adbreakmedia, March 2022 - Present
+                Adbreakmedia, March 2023 - Present
               </p>
             </div>
             <ul className="list-disc pl-5 text-gray-700 space-y-1 mb-4">
