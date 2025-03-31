@@ -102,7 +102,7 @@ export default function Home() {
               <span className="font-semibold">
                 Additional Tools & Services:
               </span>{" "}
-              Payment Gateway Integration, WebSockets, ChatGPT APIs, Cloud
+              Payment Gateway Integration, WebSockets, AI Integration, Cloud
               Storage
             </li>
           </ul>
