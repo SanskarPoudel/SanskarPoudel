@@ -62,7 +62,7 @@ export default function Home() {
             SUMMARY
           </h2>
           <p className="text-gray-700">
-            Full Stack Web Developer & Software Engineer with a proven track
+            Full Stack Software Engineer with a proven track
             record in designing, building, and deploying scalable web
             applications. Experienced in backend technologies, frontend
             development, and DevOps practices with a passion for creating
