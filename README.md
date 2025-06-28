@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskarpoudel&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarpoudel" /> </p>
 
-- 🔭 I’m currently working as **Full Stack Software Engineer** at **AdBreakMedia**
+- 🔭 I’m currently building **MobiVortex** as its **CTO & Co-Founder**
 
 - 🌱 I’m currently learning **System Design**
 
