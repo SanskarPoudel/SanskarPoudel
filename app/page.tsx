@@ -117,7 +117,7 @@ export default function Home() {
           <div className="mb-6">
             <div className="flex flex-col md:flex-row md:justify-between mb-1">
               <h3 className="text-lg font-semibold text-gray-800">
-                CoFounder & CTO
+                Co-Founder & CTO
               </h3>
               <p className="text-gray-600">
                 MobiVortex, June 2025 - Present
