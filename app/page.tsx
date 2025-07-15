@@ -8,7 +8,7 @@ export default function Home() {
         <header className="mb-8">
           <h1 className="text-4xl font-bold text-gray-900">SANSKAR PAUDEL</h1>
           <p className="text-xl mt-2 text-gray-700">
-            Full Stack Software Engineer
+            Co-Founder & CTO at MobiVortex
           </p>
 
           <div className="flex flex-wrap gap-4 mt-2 text-sm text-gray-600">
@@ -117,10 +117,39 @@ export default function Home() {
           <div className="mb-6">
             <div className="flex flex-col md:flex-row md:justify-between mb-1">
               <h3 className="text-lg font-semibold text-gray-800">
+                CoFounder & CTO
+              </h3>
+              <p className="text-gray-600">
+                MobiVortex, June 2025 - Present
+              </p>
+            </div>
+            <ul className="list-disc pl-5 text-gray-700 space-y-1 mb-4">
+              <li>
+                <span className="font-medium">Leadership & Strategy:</span>{" "}
+                Co-founded MobiVortex, a comprehensive app monetization and user acquisition platform
+              </li>
+              <li>
+                <span className="font-medium">Technical Architecture:</span>{" "}
+                Leading the technical development of platform solutions for mobile app user acquisition, data analytics, and revenue optimization
+              </li>
+              <li>
+                <span className="font-medium">Product Development:</span>{" "}
+                Overseeing the development of integrated marketing solutions supporting Android, iOS, and web platforms
+              </li>
+              <li>
+                <span className="font-medium">Innovation & Growth:</span>{" "}
+                Driving technical innovation in rewarded ads, personalized video ads, and survey-based revenue generation
+              </li>
+            </ul>
+          </div>
+
+          <div className="mb-6">
+            <div className="flex flex-col md:flex-row md:justify-between mb-1">
+              <h3 className="text-lg font-semibold text-gray-800">
                 Full Stack Software Engineer
               </h3>
               <p className="text-gray-600">
-                Adbreakmedia, March 2023 - Present
+                Adbreakmedia, March 2023 - June 2025
               </p>
             </div>
             <ul className="list-disc pl-5 text-gray-700 space-y-1 mb-4">
