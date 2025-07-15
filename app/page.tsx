@@ -178,7 +178,7 @@ export default function Home() {
             </ul>
 
             <h4 className="text-md font-semibold text-gray-800 mt-4 mb-2">
-              Key Projects Developed:
+              Key Products Developed:
             </h4>
 
             <div className="space-y-4 pl-5">
